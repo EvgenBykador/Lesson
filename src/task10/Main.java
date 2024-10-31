@@ -16,7 +16,7 @@ public class Main {
         System.out.println("Adding elements to CustomArrayList:");
         myList.add("Hello");
         myList.add("World");
-        myList.add("Java");
+        myList.add("Java!");
 
         System.out.println("Adding elements to ArrayList:");
         arrayList.add("Hello");
